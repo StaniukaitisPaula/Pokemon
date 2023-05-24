@@ -8,7 +8,7 @@
 |![](./img/mobile.png)|![](./img/desktop.png)|
 
 
-[Clique aqui]() para acessar o site. 
+[Clique aqui](https://dulcet-bublanina-b1c1bf.netlify.app/) para acessar o site. 
 
 ## **Escopo**
 
@@ -41,7 +41,7 @@ Segue o link:
 - [x]  Foi consumida a API escolhida?
 - [x]  Foi criado web componentes?
 - [x]  Foi criado um padrão de roteamente para as paginas?
-- [X]  As funções foram criadas seguindo à boa prática de responsabilidade única?
+- [ ]  As funções foram criadas seguindo à boa prática de responsabilidade única?
 - [x]  Quando possível, foi criado funções puras?
 - []  O projeto está publicado?
 - [x]  Foi criado o arquivo README.md?

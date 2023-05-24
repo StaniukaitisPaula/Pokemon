@@ -1,0 +1,10 @@
+.card__text{
+   
+    font-size: 7vh;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive; 
+    background: linear-gradient(#636363, #000);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}

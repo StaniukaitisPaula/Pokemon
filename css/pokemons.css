@@ -1,0 +1,27 @@
+body {
+    background-image: url(/img/POKE-TODOS.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    padding-left: 90px;
+    width: 100%;
+}
+.pokemon-container {
+    list-style: none;
+
+    
+}
+.pokemons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4vh;
+    flex-wrap: wrap;
+    padding: 5rem;
+    gap: 80px;
+    list-style: none;
+   
+}

@@ -1,0 +1,49 @@
+@media (max-width:830px) {
+  
+    .card__text{
+        font-size: 3vh;
+    }
+}
+
+
+
+@media (max-width:640px) {
+    .menu {
+        font-size: 3vh;
+    }
+    .title-go {
+        font-size: 7vh;
+    }
+    .image {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+@media (max-width:540px) {
+    .menu {
+        font-size: 3vh;
+    }
+    .title-go {
+        font-size: 5vh;
+    }
+    .image {
+        width: 300px;
+        height: 300px;
+    }
+}
+@media (max-width:375px) {
+    .menu {
+        font-size: 2vh;
+    }
+    .title-go {
+        font-size: 2vh;
+    }
+    .image {
+        width: 100px;
+        height: 100px;
+    }
+    .card__text{
+        font-size: 2vh;
+    }
+}

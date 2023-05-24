@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bungee Shade', cursive;
+    color: #000;
+    
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
